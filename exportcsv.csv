@@ -1,0 +1,14 @@
+ID;NAME;FIRSTNAME;MAIL;DEPARTEMENTS;ISMANAGER;ISLEADMANAGER
+23;BERTIGNAC;Louis;louis.bertignac@thebest.fr;Commercial;1;1
+24;PERRIN;Richard;richard.perrin@thebest.fr;Technique;1;1
+25;THOMAS;Vincent;vincent.thomas@thebest.fr;Commercial;1;0
+26;MARTIN;JeanMich;jeanmich.martin@thebest.fr;Commercial;0;0
+27;DUPONT;Jean;jean.dupont@thebest.fr;Commercial;0;0
+28;MICHEL;Louise;louise.michel@thebest.fr;Technique;0;0
+29;DION;Céline;celine.dion@thbest.fr;Technique;0;0
+30;DURAND;Melanie;melanie.durand@thebest.fr;Artistic;1;1
+31;ALVAREZ;Maxime;maxime.alvarez@thebest.fr;Comptability;1;1
+32;MARTIN;Amelie;amelie.martin@thebest.fr;GameDesign;1;1
+33;TRAVIS ;George;george.travis@thebest.fr;Production;1;0
+34;KUTHRAPALI;Rajish;Kuthrapali.Rajish@thebest.fr;Informatic;1;1
+;KIM SEO;Jin;jin.kimseo@thebest.fr;Informatic;0;0
